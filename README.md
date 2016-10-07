@@ -51,6 +51,7 @@ The course consists of 3 distinct phases:-
 - Collections - ArrayList, LinkedList
 - Functions - parameters, return values, signatures/overloading; main args[]
 - Mop up/Revisit - Iterators, foreach, data conversion (Autoboxing, unboxing, casting)
+- Math Libraries, floor, ceiling, conversion
 
 ## Module 04 - Object Orientation
 *Understanding how to model the world using Objects; and becoming familiar with the tools and advantages of such.*

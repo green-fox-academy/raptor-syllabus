@@ -10,16 +10,16 @@
 
 ### JAVA
 | Link | Comment |
-|:---- |:------- |
- | https://www.youtube.com/watch?v=2Xa3Y4xz8_s | What is Java|
- | https://www.youtube.com/watch?v=yLkrw34VMNo |The components of Java |
+|:---- 
+ - https://www.youtube.com/watch?v=2Xa3Y4xz8_s  What is Java
+ - https://www.youtube.com/watch?v=yLkrw34VMNo  The components of Java
  
- | https://www.jetbrains.com/help/idea/2016.2/tutorial-creating-running-and-packaging-your-first-java-application.html ||
-| https://www.youtube.com/watch?v=TBWX97e1E9g | Bana video on getting started (using eclipse)|
-| https://www.youtube.com/watch?v=yYN8u90MKCg | Bana variables |
-| https://www.youtube.com/watch?v=qZ2pb6BljLk ||
-| https://www.youtube.com/watch?v=efvZmFd1prA ||
-| https://www.youtube.com/watch?v=TBWX97e1E9g ||
+ - https://www.jetbrains.com/help/idea/2016.2/tutorial-creating-running-and-packaging-your-first-java-application.html 
+-  https://www.youtube.com/watch?v=TBWX97e1E9g -Bana video on getting started (using eclipse)
+- https://www.youtube.com/watch?v=yYN8u90MKCg -Bana variables
+- https://www.youtube.com/watch?v=qZ2pb6BljLk
+- https://www.youtube.com/watch?v=efvZmFd1prA
+-https://www.youtube.com/watch?v=TBWX97e1E9g
 
 
 
