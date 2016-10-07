@@ -45,11 +45,11 @@ The course consists of 3 distinct phases:-
 - Variables, Data Types
 - Arrays - multi-dimensional, jagged
 - Expressions
-- Control Flow - loops (while, do-while, for), statements (if, if-then, if-then-else, elseif)
+- Control Flow - loops (while, do-while, for), statements (if, if-then, if-then-else, elseif), intro to code blocks
 - Strings & StringBuilder
 - Basic I/O - the Scanner class (reading from the prompt (System.in), writing to the prompt (System.out))
 - Collections - ArrayList, LinkedList
-- Functions - parameters, return values, signatures/overloading; main args[]
+- Functions - parameters, return values, signatures/overloading; main args[], variable scoping
 - Mop up/Revisit - Iterators, foreach, data conversion (Autoboxing, unboxing, casting)
 - Math Libraries, floor, ceiling, conversion
 
@@ -62,6 +62,7 @@ The course consists of 3 distinct phases:-
 - Extending OO - sub-classes, super, polymorphism, abstract and interface 
 - Static, Final, Protected & Private
 - Base classes - Date, I/O
+- Localisation - decimal point, mm/dd/yy vs dd/mm/yy vs ...
 - Mop up/Revisit - data conversion, Streams, Scanner in context
 
 ## Module 05 - Consolidating Skills

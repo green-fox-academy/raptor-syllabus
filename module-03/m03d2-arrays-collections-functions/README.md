@@ -1,130 +1,87 @@
-# Module 03: Day 2 - Arrays, Collections & Functions
-*Describe the days objectives*
+# Module 03: Day 2 - Array, Functions and Debugging & Exceptions
+Expanding for the the primitive datatypes, computers also work with lists of data; one of the most basic is the *arrays*.  Arrays offer a way to process a list of items, applying the same rules; and collecting a series of results for reporting.
+Additionally, as we are now conversant with the basic data types and flow, we introduce some tools so that we can watch what is happening when a program runs, find where a program does the __bad__ thing (that is to say, *goes awry*) and instruct it on how to handle exceptions.
+Also, we show how we can extend the environment with features developed by others (i.e. libraries).
+
 
 ## Materials & Resources
-### INTRO/SET ENV
-- download jdk (from Oracle, version 8)
-- if jre didn't download, get that too
-- download the development environment tool: www.jetbrains.com - Install Intellij-IDEA
 
-
-### JAVA
-| Link | Comment |
+| Link | Comment|
 |:---- |:------ |
 |https://www.youtube.com/watch?v=TBWX97e1E9g|Bana (09 before 08!)|
+|https://www.youtube.com/watch?v=1HTsLK_m2ao| Using Functions|
+|https://www.youtube.com/watch?v=EWj60p8esD0| Exceptions: Try/Catch|
+|https://www.youtube.com/watch?v=rGlJiUO-dZA|Functions with Classes |
+|https://www.youtube.com/watch?v=_pUz-GJcdRU| Arrays & For Loop|
+|https://www.youtube.com/watch?v=bQTFXlZWzKw| Working through Arrays|
+|https://www.youtube.com/watch?v=IEqvmsqjpT0 |Arrays related to Object|
+|https://www.jetbrains.com/help/idea/2016.2/tutorial-debugging-your-first-java-application.html|How to debug using IntelliJ|
+|https://www.jetbrains.com/help/idea/2016.2/configuring-project-and-global-libraries.html#lib_add_to_module_dependencies|How to add in a library|
+|https://www.jetbrains.com/help/idea/2016.2/downloading-libraries-from-maven-repositories.html| Using Maven|
 
 
 
+### Preparation
+- Use Maven to add `commons-lang` library (for use in the Array exercises)
 
-
-
-### Optional 
-*If you've got time, consider the following:*
- - https://www.youtube.com/watch?v=G1ubVOl9IBw
- - https://www.youtube.com/watch?v=DnBTGtmJdzA - Variables and Binary
- - https://www.youtube.com/watch?v=tUW2kIPY3is - What is memory
-
- - https://reading
+### Optional
+| Link | Comment |
+|:---- |:------ |
+|http://commons.apache.org/proper/commons-lang/download_lang.cgi| What is "commons-lang"|
+|https://www.youtube.com/watch?v=LOHBGyK3Hbs|Optional on LinkedLists|
+|smartphone store|consider installing Sololearn Java Programming app|
 
 ## Assignment Review 
 
 ## Topics
 
+### Add in a library
+*There's a useful set of routines that exists outside of the main Java built-in statements which, as we are covering arrays, we'd like to loop in.*
+- Why are there libraries
+- How are they added so that IDEA knows about them
+- How do you include them in a program; reference them in the code.
 
 ### Arrays
 - overview
+  - index and content
+  - static vs dynamic
+  - dimensioned (space allocated)
 - initalise arrays
+  - "new" 
+  - redefine the values
+  - declaration
+  - initialise with values {"a","b"}
 - loop through an array
 - multi-dimensional arrays
-- type in an array (i.e. Array&gt;type&lt;) 
+- fill()
+- Arrays.toString(*array variable*) __NOT__ *array variable*.toString as *Arrays* is a library function
+- type in an array (i.e. Array&lt;type&gt;) 
 
 *jagged arrays*
 
+## Functions
+- Purpose
+- Return statement and value
+- Input Parameters
+- Scoping
+  - re-use named variable
+  - global variable
+  - passing by reference vs value
 
-### The Java environment
-- Programs with the .java extension
-- Compiling to bytecode
-- Linked together
-- Interpreter
+## Main()
+- Fixed invocation
+- There can only be 1 per program
+  - Identify which is the *entry* point
+- How to read the parameter(s) passed
 
-### "Hello World" 
-*Test that everything is installed correctly*
-- Get output
-- Practice creating file, directories
-- How to run a program
+### Debugging - Introduction
+- Setting a break point-  How to walk through the program
+- Inspecting a variable
 
-### Variables 
-#### Numbers
-- Integer
-- Byte
-- Short
-- Long
-- Float
-- Double
-- Range limitations
-- Arithmetic Operators (+, -, *, /, %, ++, --, +=, -=, /=, *=)
+### Exceptions
+- What can cause an exception
+- Unhandled outcome
 
-
-
-#### Strings
-http://docs.oracle.com/javase/8/docs/api/java/lang/String.html
- - char
- - String Class
- - length
- - isEmpty()
- - Concatenation
- - indexOf(), contains()
- - substring()
- - format()
- - compareTo
- - replace
- - toLowerCase(), toUpperCase
- - trim()
- *general familiarity with how to check syntax and find functions on the internet*
- 
-#### Other datatypes
-- Boolean
-- Date (will cover later)
-- Objects (will cover later)
-
-### Conditional
-- comparison operators
-  - ==      equal to
-  - !=      not equal to
-  - >       greater than
-  - >=      greater than or equal to
-  - <       less than
-  - <=      less than or equal to
-- if
-- else
-- elseif
-- switch
-- conditional operators
-   - and &&
-   - or ||
-   - negation !
-   - xor ^
-
-- bitwise operators 
-   - and &
-   - or |
-   - negation !
-
-### Loops
-- for 
-- while
-- do while
-- break
-- continue
-
-
-### Arrays
-- overview
-- initalise arrays
-- loop through an array
-- multi-dimensional arrays
-
-*jagged arrays*
 
 
 ## Workshop/Practice 
@@ -133,12 +90,4 @@ http://docs.oracle.com/javase/8/docs/api/java/lang/String.html
 ### Challenge Final
 - https://www.codewars.com/kata/descending-order/train/java
 
-## Project work
-[CV template](https://invis.io/X575YEGVU#/155416515_Greenfox-Anakins-Cv) to follow
-Try to make a build as similar as possible to the design.
-
-If you are ready:
- - create a copy
- - Modify the content to your CV
- - Build your own design
- - other [CV ideas](https://www.pinterest.com/hugabuga/cv-inspiration/) for the brave
+## Assignment
