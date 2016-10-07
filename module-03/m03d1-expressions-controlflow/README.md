@@ -19,6 +19,7 @@
 | https://www.youtube.com/watch?v=qZ2pb6BljLk ||
 | https://www.youtube.com/watch?v=efvZmFd1prA ||
 | https://www.youtube.com/watch?v=TBWX97e1E9g ||
+| https://www.youtube.com/watch?v=RxeDe6BsTMI|String functions|
 
 
 ### Optional 
