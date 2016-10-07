@@ -11,10 +11,9 @@
 ### JAVA
 | Link | Comment |
 |:---- |:------- |
- | https://www.youtube.com/watch?v=2Xa3Y4xz8_s | What is Java|
- | https://www.youtube.com/watch?v=yLkrw34VMNo |The components of Java |
- 
- | https://www.jetbrains.com/help/idea/2016.2/tutorial-creating-running-and-packaging-your-first-java-application.html ||
+| https://www.youtube.com/watch?v=2Xa3Y4xz8_s | What is Java|
+| https://www.youtube.com/watch?v=yLkrw34VMNo |The components of Java |
+| https://www.jetbrains.com/help/idea/2016.2/tutorial-creating-running-and-packaging-your-first-java-application.html ||
 | https://www.youtube.com/watch?v=TBWX97e1E9g | Bana video on getting started (using eclipse)|
 | https://www.youtube.com/watch?v=yYN8u90MKCg | Bana variables |
 | https://www.youtube.com/watch?v=qZ2pb6BljLk ||
@@ -22,18 +21,17 @@
 | https://www.youtube.com/watch?v=TBWX97e1E9g ||
 
 
-
-
-
 ### Optional 
 *If you've got time, consider the following:*
- - https://www.youtube.com/watch?v=G1ubVOl9IBw
- - https://www.youtube.com/watch?v=DnBTGtmJdzA - Variables and Binary
- - https://www.youtube.com/watch?v=tUW2kIPY3is - What is memory
+| Link | Comment |
+|:---- |:------- |
+|https://www.youtube.com/watch?v=G1ubVOl9IBw||
+|https://www.youtube.com/watch?v=DnBTGtmJdzA| Variables and Binary|
+|https://www.youtube.com/watch?v=tUW2kIPY3is| What is memory|
 
- - https://reading
 
 ## Assignment Review 
+*Nothing from the previous session expected*
 
 ## Topics
 
@@ -114,27 +112,11 @@ http://docs.oracle.com/javase/8/docs/api/java/lang/String.html
 - continue
 
 
-### Arrays
-- overview
-- initalise arrays
-- loop through an array
-- multi-dimensional arrays
-
-*jagged arrays*
-
-
 ## Workshop/Practice 
 
 ### Challenge 1
 ### Challenge Final
-- https://www.codewars.com/kata/descending-order/train/java
+- https://www.codewars.com/kata/563f037412e5ada593000114/train/java - Interest rate computation
 
-## Project work
-[CV template](https://invis.io/X575YEGVU#/155416515_Greenfox-Anakins-Cv) to follow
-Try to make a build as similar as possible to the design.
 
-If you are ready:
- - create a copy
- - Modify the content to your CV
- - Build your own design
- - other [CV ideas](https://www.pinterest.com/hugabuga/cv-inspiration/) for the brave
+## Assignment
