@@ -302,6 +302,92 @@ if(trueBool || falseBool)
 - break
 - continue
 
+```java
+// Loops                                                                        
+// For statement/loop                                                           
+/*                                                                              
+    for (initialization; termination; increment) {                              
+        statement(s)                                                            
+    }                                                                           
+*/                                                                              
+
+// Example 1                                                                    
+for (int i = 0; i < 10; i++) {                                                  
+    System.out.print(i);                                                        
+}                                                                               
+
+// Example 2 -> going by 2                                                      
+int j = 0;                                                                      
+for (; j < 10; j += 2)                                                          
+    System.out.print(j);                                                        
+
+// Example 3 -> infinity loop ( :D )                                            
+for(;;)                                                                         
+    System.out.print(j);                                                        
+
+// While statement/loop                                                         
+/*                                                                              
+    while (expression) {                                                        
+        statement(s)                                                            
+    }                                                                           
+*/                                                                              
+
+// Example 1                                                                    
+int k = 0;                                                                      
+while (k < 10) {                                                                
+    System.out.print(k);                                                        
+    k++;                                                                        
+}                                                                               
+
+// Example 2                                                                    
+k = 0;                                                                          
+while (k < 10) {                                                                
+    System.out.print(k);                                                        
+    k += 2;                                                                     
+}                                                                               
+
+// Do-While statement/loop (it executes at least once)                          
+/*                                                                              
+    while (expression) {                                                        
+        statement(s)                                                            
+    }                                                                           
+*/                                                                              
+
+// Example 1                                                                    
+int l = 0;                                                                      
+do {                                                                            
+    System.out.print(l);                                                        
+    l++;                                                                        
+} while (l < 10);                                                               
+
+// Example 2                                                                    
+l = 0;                                                                          
+do {                                                                            
+    System.out.print(l);                                                        
+    l += 2;                                                                     
+} while (l < 10);                                                               
+
+
+// Break statement (jump out from the loop)                                     
+
+// Example 1 -> break when  the first element has found which is divisible by 5
+for (int m = 1; m < 10; m++) {                                                  
+    if (m % 5 == 0)                                                             
+        break;                                                                  
+    System.out.print(m);                                                        
+}                                                                               
+
+
+// Continue statement (jump to the next loop iteration)                         
+
+// Example 1 -> continue on elements which is divisible by 2                    
+for (int m = 1; m < 10; m++) {                                                  
+    if (m % 2 == 0)                                                             
+        continue;                                                               
+    System.out.print(m);                                                        
+}                                                                               
+```
+
 
 ## Workshop/Practice
 
