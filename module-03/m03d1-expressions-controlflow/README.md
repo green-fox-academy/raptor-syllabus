@@ -22,7 +22,7 @@
 | https://www.youtube.com/watch?v=RxeDe6BsTMI|String functions|
 
 
-### Optional 
+### Optional
 *If you've got time, consider the following:*
 | Link | Comment |
 |:---- |:------- |
@@ -31,7 +31,7 @@
 |https://www.youtube.com/watch?v=tUW2kIPY3is| What is memory|
 
 
-## Assignment Review 
+## Assignment Review
 *Nothing from the previous session expected*
 
 ## Topics
@@ -42,13 +42,17 @@
 - Linked together
 - Interpreter
 
-### "Hello World" 
+### "Hello World"
 *Test that everything is installed correctly*
 - Get output
 - Practice creating file, directories
 - How to run a program
 
-### Variables 
+```java
+System.out.println("Hello world!");
+```
+
+### Variables
 #### Numbers
 - Integer
 - Byte
@@ -59,6 +63,49 @@
 - Range limitations
 - Arithmetic Operators (+, -, *, /, %, ++, --, +=, -=, /=, *=)
 
+```java
+      // Integers
+      // Byte (8 bit; min:-128; max: +127)
+      byte a = -127;
+      byte b = 2;
+      byte c = 278; // error by the IDE
+
+      // Short (16 bit; min: -32768 ; max: +32 767)
+      short d = -32768;
+      short e = 65000; // error by the IDE
+      Short f = 567;
+
+      // Integer (32 bit; min: -2 147 483 648; max: 2 147 483 647)
+      int g = 12;
+      Integer h = 13;
+
+
+      // Long (64 bit; min: -9 223 372 036 854 775 808 ;max: 9 223 372 036 854 775 807 )
+      long i = 200;
+      long j = 30000000000000L;
+      long k = -34500000000L;
+
+      // Floats
+      // Float (32 bit single precision IEEE 754)
+      float l = 1.3f;
+      float m = 45f;
+      Float n = 0; // use 0f
+
+      // Double ( 64 bit, double precision IEEE 754)
+      double o = 23.03013103103d;
+      Double p = 1d;
+
+      // Arithmetic operators
+      int aa = 3 + 4;
+      int bb = 6 * 7;
+      int cc = 8 / 4;
+      int dd = 8 % 4;
+      int ee = 8 % 5;
+
+      int ff = 8;
+      ff *= 3;
+      ff /= 6; // ff = 4
+```
 
 
 #### Strings
@@ -76,7 +123,7 @@ http://docs.oracle.com/javase/8/docs/api/java/lang/String.html
  - toLowerCase(), toUpperCase
  - trim()
  *general familiarity with how to check syntax and find functions on the internet*
- 
+
 #### Other datatypes
 - Boolean
 - Date (will cover later)
@@ -100,20 +147,20 @@ http://docs.oracle.com/javase/8/docs/api/java/lang/String.html
    - negation !
    - xor ^
 
-- bitwise operators 
+- bitwise operators
    - and &
    - or |
    - negation !
 
 ### Loops
-- for 
+- for
 - while
 - do while
 - break
 - continue
 
 
-## Workshop/Practice 
+## Workshop/Practice
 
 ### Challenge 1
 ### Challenge Final
