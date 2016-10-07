@@ -1,4 +1,4 @@
-# Module 03: Day 1 - Intro, Expressions & Control-Flow
+# Module 03: Day 2 - Arrays, Collections & Functions
 *Describe the days objectives*
 
 ## Materials & Resources
@@ -10,16 +10,9 @@
 
 ### JAVA
 | Link | Comment |
-|:---- 
- - https://www.youtube.com/watch?v=2Xa3Y4xz8_s  What is Java
- - https://www.youtube.com/watch?v=yLkrw34VMNo  The components of Java
- 
- - https://www.jetbrains.com/help/idea/2016.2/tutorial-creating-running-and-packaging-your-first-java-application.html 
--  https://www.youtube.com/watch?v=TBWX97e1E9g -Bana video on getting started (using eclipse)
-- https://www.youtube.com/watch?v=yYN8u90MKCg -Bana variables
-- https://www.youtube.com/watch?v=qZ2pb6BljLk
-- https://www.youtube.com/watch?v=efvZmFd1prA
--https://www.youtube.com/watch?v=TBWX97e1E9g
+|:---- |:------ |
+|https://www.youtube.com/watch?v=TBWX97e1E9g|Bana (09 before 08!)|
+
 
 
 
@@ -36,6 +29,17 @@
 ## Assignment Review 
 
 ## Topics
+
+
+### Arrays
+- overview
+- initalise arrays
+- loop through an array
+- multi-dimensional arrays
+- type in an array (i.e. Array&gt;type&lt;) 
+
+*jagged arrays*
+
 
 ### The Java environment
 - Programs with the .java extension
