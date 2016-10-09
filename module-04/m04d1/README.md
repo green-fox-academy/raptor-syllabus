@@ -9,25 +9,25 @@ In this segment we'll first cover theory (and how it arose); then go through a s
 
 | Link | Comment |
 |:---- |:------- |
-|https://www.youtube.com/watch?v=pBlH24tFRQk|The origins of OO.|
-|https://www.youtube.com/watch?v=eKC04ztp09o|What are objects (JCode.03).|
-|https://www.youtube.com/watch?v=X8D2FVAfNtI|What is a class (JCode.04).|
-|https://www.youtube.com/watch?v=UDVVPUqjsRg|What is a field in a class (JCode.05).|
-|https://www.youtube.com/watch?v=chWtlHxYS8Y|Methods (JCode.06).|
-|https://www.youtube.com/watch?v=Lsdaztp3_lw|Inheritance &amp; Polymorphism. (Bana.14)|
-|https://www.youtube.com/watch?v=1PPDoAKbaNA|Interfaces & Abstracts (Templates, Bana.15)|
-|https://www.youtube.com/watch?v=h2tVne5nDUg|Class & Objects (Bana.16)|
-|https://www.youtube.com/watch?v=AozJ0CR2W4A|What does "new" do. (Telusko)|
-|https://www.youtube.com/watch?v=VyPFa1Slh7A|New Operator (Ross)|
-|https://www.youtube.com/watch?v=3c9SrLaMFGY|Static variable (Slidenerd.41)|
-|https://www.youtube.com/watch?v=UhTF9MgyiiE|Static method (Diaz.09)|
+|https://www.youtube.com/watch?v=pBlH24tFRQk |The origins of OO.|
+|https://www.youtube.com/watch?v=eKC04ztp09o |What are objects (JCode.03)|
+|https://www.youtube.com/watch?v=X8D2FVAfNtI |What is a class (JCode.04)|
+|https://www.youtube.com/watch?v=UDVVPUqjsRg |What is a field in a class (JCode.05)|
+|https://www.youtube.com/watch?v=chWtlHxYS8Y |Methods (JCode.06)|
+|https://www.youtube.com/watch?v=Lsdaztp3_lw |Inheritance &amp; Polymorphism (Bana.14)|
+|https://www.youtube.com/watch?v=1PPDoAKbaNA |Interfaces & Abstracts (Templates, Bana.15)|
+|https://www.youtube.com/watch?v=h2tVne5nDUg |Class & Objects (Bana.16)|
+|https://www.youtube.com/watch?v=AozJ0CR2W4A |What does "new" do (Telusko)|
+|https://www.youtube.com/watch?v=VyPFa1Slh7A |New Operator (Ross)|
+|https://www.youtube.com/watch?v=3c9SrLaMFGY |Static variable (Slidenerd.41)|
+|https://www.youtube.com/watch?v=UhTF9MgyiiE |Static method (Diaz.09)|
 
 ### Optional
 | Link | Comment |
 |:---- |:------ |
-|https://www.youtube.com/watch?v=rTSN-6bsa6k|Comparison of languages.|
-|https://www.youtube.com/watch?v=TeKTxG9DdQA|Inheritance, another perspective (EJ.14)|
-|https://www.youtube.com/watch?v=H6Aaxle8DE4|Interfaces, more examples to understand inheritance (Posch.01-4)|
+|https://www.youtube.com/watch?v=rTSN-6bsa6k |Comparison of languages|
+|https://www.youtube.com/watch?v=TeKTxG9DdQA |Inheritance, another perspective (EJ.14)|
+|https://www.youtube.com/watch?v=H6Aaxle8DE4 |Interfaces, more examples to understand inheritance (Posch.01-4)|
 
 
 ## Assignment Review
@@ -41,20 +41,20 @@ In this segment we'll first cover theory (and how it arose); then go through a s
 - Polymorphism
 
 ### Classes &amp; Objects
-- conventionally named to start with a capital letter
-- consists of 
+- Conventionally named to start with a capital letter
+- Consists of 
   - attributes (variables)
   - methods
-- core method is the constructor
+- Core method is the constructor
   - what is happens when an *instance* (aka *extension*) of the class *intention* (aka *blueprint*) is called
   - can be overloaded
-- has other attributes, inherited from the Object class
+- Has other attributes, inherited from the Object class
   - HashCode()
   - getClass()
 
 ### This
-Needs a means in the *blueprint* to reference the *instance* when defining a Method.
-- looks like an Object reference
+- Provides the *blueprint* with a way to reference the *instance* inside of a Method definition.
+- Looks like an Object reference
 
 ### Declaration types
 - public
@@ -63,20 +63,20 @@ Needs a means in the *blueprint* to reference the *instance* when defining a Met
 - static
 
 ### Objects
-- is a variable
-- needs to be created (the *new* expression)
-- can be *passed*
+- Is a *complex* variable (e.g. not a primitive)
+- Is usually created with the *new* expression (NB. Strings)
+- Is *passed* as a reference (not copied)
 
 ### Inheriting
 How Java builds upon a progenitor class.  Creating a sub class from a parent.
-- exposes public and protected methods and attributes
-- means to add new methods and attributes (which can be further inherited)
-- override methods
+- Exposes public and protected methods and attributes
+- Means to add new methods and attributes (which can be further inherited)
+- Overrides methods
 - super() - means to refer the parent class (as opposed to &quot;this&quot;)
 
 ### Abstract
-- enforce the definition of base function and properties
-- can have some methods defined while demanding those that extend define the abstract methods
+- Enforces the definition of base function and properties
+- Can have some methods defined while demanding those that extend define the abstract methods
 
 ### Interface & Implements
 - Workaround for inheriting from multiple classes
@@ -84,11 +84,11 @@ How Java builds upon a progenitor class.  Creating a sub class from a parent.
 - Convention expects the interface to start with &quot;I&quot;
 
 ### Main()
-At this point we should draw your attention to this point
-- note that there can be only 1 main(), usually in the lead class (in Bana video, for example, you'll notice that the he defines the lesson as a class and then creates main in such)
-- only has 1 way of being referenced (cannot be overloaded)
-- why this is &quot;staic&quot;
-
+Let's re-examine `main()`
+- Java only ever recognizes 1 `main()` 
+  - usually marks the *lead* class (notice in the videos, for example, in each Bana lesson, he redefines main())
+  - only has 1 way of being referenced (cannot be overloaded)
+- Recognize it's called `void` and `static`
 
 ### Object datatype
 - Concepts: 
@@ -96,9 +96,7 @@ At this point we should draw your attention to this point
   - what does it know (underlying datatype)
   - is a pointer
   - primitive vs complex datatypes
-- boxing and unboxing  
-
-
+- Can be boxed and unboxed  
 
 ## Workshop/Practice 
 
