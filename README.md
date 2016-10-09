@@ -61,7 +61,7 @@ The course consists of 3 distinct phases:-
 - Extensions/Objects - how are they created and used
 - Extending OO - sub-classes, super, polymorphism, abstract and interface, boxing/unboxing
 - Static, Final, Protected & Private
-- Mop up/Revisit - data conversion, Streams, I/O, Date, Scanner in context
+- Mop up/Revisit - data conversion, Streams, I/O, Scanner in context
   - Date
   - Localisation - decimal point, mm/dd/yy vs dd/mm/yy vs ...
 

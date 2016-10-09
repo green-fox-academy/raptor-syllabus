@@ -96,3 +96,8 @@ Look deeper at datatypes and how they interact with one another as well as impac
 ### Challenge Final
 
 ## Assignment
+
+# Links
+- [Return to Module Overview](..)
+- [Previous day](../m03d3)
+- [Next day](../../module-04/m04d1)

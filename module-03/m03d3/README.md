@@ -86,9 +86,18 @@ As this is a short week, we are not doing any demos.  However, we are assigning 
 ### Challenge Final
 - https://www.codewars.com/kata/descending-order/train/java
 
+## Demo
+- Generate palindromes for a given set of input; be able to search and match.
+- Show understanding of variables, conditionals, loops and the other basic elements of a programming language.
+
 ## Assignment
 | Link | Comment|
 |:---- |:------ |
 |https://www.youtube.com/watch?v=_pUz-GJcdRU|Pulling it together/Monster Game (Bana.08)|
 |https://www.youtube.com/watch?v=bQTFXlZWzKw|Continuing on the Monster Game (Bana.10)|
 | http://goo.gl/lDM30|Code for the game|
+
+# Links
+- [Return to Module Overview](..)
+- [Previous day](../m03d2-arrays-collections-functions)
+- [Next day](../m04d4)

@@ -96,3 +96,7 @@ Also, we show how we can extend the environment with features developed by other
 - Review loops, what causes them to terminate
 - Stepping through programs; interogating variables.
 
+# Links
+- [Return to Module Overview](..)
+- [Previous day](../m03d1-expressions-controlflow)
+- [Next day](../m03d3)

@@ -402,3 +402,8 @@ for (int m = 1; m < 10; m++) {
 
 
 ## Assignment
+
+# Links
+- [Return to Module Overview](..)
+- Previous day - (not applicable)
+- [Next day](../m03d2-arrays-collections-functions)

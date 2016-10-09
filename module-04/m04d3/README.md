@@ -3,6 +3,7 @@ Regex is a valuable skill to have to understand what is available when searching
 
 I/O (Input/Output) discusses how one stores and retrieves streams of data, and Serialization considers how object data can be stored, transmitted and read.
 
+
 ## Materials & Resources
 
 | Link | Comment |
@@ -37,5 +38,9 @@ I/O (Input/Output) discusses how one stores and retrieves streams of data, and S
 
 ### Challenge 
 
-
 ## Assignment
+
+# Links
+- [Return to Module Overview](..)
+- [Previous day](../m04/d2)
+- [Next day](../m04d4)

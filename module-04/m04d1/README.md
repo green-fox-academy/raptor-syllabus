@@ -22,18 +22,16 @@ In this segment we'll first cover theory (and how it arose); then go through a s
 |https://www.youtube.com/watch?v=3c9SrLaMFGY|Static variable (Slidenerd.41)|
 |https://www.youtube.com/watch?v=UhTF9MgyiiE|Static method (Diaz.09)|
 
-
-
 ### Optional
 | Link | Comment |
 |:---- |:------ |
 |https://www.youtube.com/watch?v=rTSN-6bsa6k|Comparison of languages.|
 |https://www.youtube.com/watch?v=TeKTxG9DdQA|Inheritance, another perspective (EJ.14)|
-|https://www.youtube.com/watch?v=H6Aaxle8DE4&index=49&list=PLi6UtDGJwr4P8Yh7dTJCtywF0hmNe-oTt|Interfaces, more examples to understand inheritance (Posch.01-4)|
+|https://www.youtube.com/watch?v=H6Aaxle8DE4|Interfaces, more examples to understand inheritance (Posch.01-4)|
 
 
 ## Assignment Review
-
+*TBA.*
 
 ## Topics
 
@@ -48,7 +46,7 @@ In this segment we'll first cover theory (and how it arose); then go through a s
   - attributes (variables)
   - methods
 - core method is the constructor
-  - what is called when an *instance* (aka *extension*) of the class *intention* (aka *blueprint*) is called
+  - what is happens when an *instance* (aka *extension*) of the class *intention* (aka *blueprint*) is called
   - can be overloaded
 - has other attributes, inherited from the Object class
   - HashCode()
@@ -117,5 +115,6 @@ Ideas
 ## Assignment
 
 # Links
-- [To module overview](..)
-- [Next module](../m04d2)
+- [Return to Module Overview](..)
+- [Previous day](../../module-03/m03d4)
+- [Next day](../m04d2)

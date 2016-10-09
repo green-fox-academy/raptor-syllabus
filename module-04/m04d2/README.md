@@ -66,3 +66,8 @@ Ideas
 - static
 
 ## Assignment
+
+# Links
+- [Return to Module Overview](..)
+- [Previous day](../m04/d1)
+- [Next day](../m04d3)
