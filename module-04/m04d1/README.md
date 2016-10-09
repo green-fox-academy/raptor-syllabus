@@ -1,4 +1,4 @@
-# Module 04: Day 1 - Objects & Classes 
+# Module 04: Day 1 - Objects &amp; Classes 
 Classes and Objects lay at the heart of Java.  Until this point we have had to cover the foundation of programming (variables, conditionals, simple I/O and loops) as well as some core skills (getting a program to run and watching it execute so as to debug).  Now that we have that foundation laid, we can turn our attention to a core element of the Java: Object Orientation (aka "OO").  In the late 80s, this was the &quot;Promised Land&quot; (that&apos;s a biblical metaphor for *the future of programming*).  
 
 With OO, a new realm of programming opened up.  It became easier to deliver more complex problems as they could be broken down into simpler units.  OO removed complexity and ensured a common understanding leading to standards that in turn has allowed us to develop bigger (and distributed) systems.
@@ -115,3 +115,7 @@ Ideas
 - static
 
 ## Assignment
+
+# Links
+- [To module overview](..)
+- [Next module](..\m04d2)
