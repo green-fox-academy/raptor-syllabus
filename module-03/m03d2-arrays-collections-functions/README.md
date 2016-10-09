@@ -5,29 +5,26 @@ Also, we show how we can extend the environment with features developed by other
 
 
 ## Materials & Resources
+- One of the examples makes use of a library that is available over the internet (from a source called Maven).  Called `commons-lang` you will need it for use in the Array exercise.
 
 | Link | Comment|
 |:---- |:------ |
-|https://www.youtube.com/watch?v=TBWX97e1E9g|Bana (09 before 08!)|
-|https://www.youtube.com/watch?v=1HTsLK_m2ao| Using Functions|
-|https://www.youtube.com/watch?v=EWj60p8esD0| Exceptions: Try/Catch|
+|https://www.youtube.com/watch?v=1HTsLK_m2ao|Methods & Fields, Using Functions (Bana 05)|
+|https://www.youtube.com/watch?v=eNPX2pTiaHI|Bana 09 (before 08!)|
+|https://www.youtube.com/watch?v=EWj60p8esD0|Exceptions: Try/Catch|
 |https://www.youtube.com/watch?v=rGlJiUO-dZA|Functions with Classes |
-|https://www.youtube.com/watch?v=_pUz-GJcdRU| Arrays & For Loop|
-|https://www.youtube.com/watch?v=bQTFXlZWzKw| Working through Arrays|
-|https://www.youtube.com/watch?v=IEqvmsqjpT0 |Arrays related to Object|
+|https://www.youtube.com/watch?v=_pUz-GJcdRU|Arrays & For Loop|
+|https://www.youtube.com/watch?v=IEqvmsqjpT0|Arrays related to Object|
 |https://www.jetbrains.com/help/idea/2016.2/tutorial-debugging-your-first-java-application.html|How to debug using IntelliJ|
-|https://www.jetbrains.com/help/idea/2016.2/configuring-project-and-global-libraries.html#lib_add_to_module_dependencies|How to add in a library|
-|https://www.jetbrains.com/help/idea/2016.2/downloading-libraries-from-maven-repositories.html| Using Maven|
+|https://youtu.be/Mr2mPu1tLhk?t=240|Adding a Maven Dependency (this is tip #8, tip #2 Comments at 1 min is also useful at this point)|
 
-
-
-### Preparation
-- Use Maven to add `commons-lang` library (for use in the Array exercises)
 
 ### Optional
-| Link | Comment |
+| Link | Comment|
 |:---- |:------ |
 |http://commons.apache.org/proper/commons-lang/download_lang.cgi| What is "commons-lang"|
+|https://www.jetbrains.com/help/idea/2016.2/configuring-project-and-global-libraries.html#lib_add_to_module_dependencies|How to add in a library|
+|https://www.jetbrains.com/help/idea/2016.2/downloading-libraries-from-maven-repositories.html| Using Maven|
 |https://www.youtube.com/watch?v=LOHBGyK3Hbs|Optional on LinkedLists|
 |smartphone store|consider installing Sololearn Java Programming app|
 
@@ -91,3 +88,11 @@ Also, we show how we can extend the environment with features developed by other
 - https://www.codewars.com/kata/descending-order/train/java
 
 ## Assignment
+| Link | Comment|
+|:---- |:------ |
+|http://www.homeandlearn.co.uk/java/java_for_loops.html|Loop Exercises|
+|http://blog.javafortesters.com/2016/07/how-to-debug-java-with-intellij.html|Describing how one uses the debugger in IntelliJ|
+
+- Review loops, what causes them to terminate
+- Stepping through programs; interogating variables.
+

@@ -47,7 +47,7 @@ The course consists of 3 distinct phases:-
 - Expressions
 - Control Flow - loops (while, do-while, for), statements (if, if-then, if-then-else, elseif), intro to code blocks
 - Strings & StringBuilder
-- Basic I/O - the Scanner class (reading from the prompt (System.in), writing to the prompt (System.out))
+- Simple I/O - the Scanner class (reading from the prompt (System.in), writing to the prompt (System.out))
 - Collections - ArrayList, LinkedList
 - Functions - parameters, return values, signatures/overloading; main args[], variable scoping
 - Mop up/Revisit - Iterators, foreach, data conversion (Autoboxing, unboxing, casting)
@@ -59,11 +59,12 @@ The course consists of 3 distinct phases:-
 - The benefits of OO - theory behind OO, covering encapsulation, data hiding, polymorphism, inheritance
 - Intentions/Classes - what is a class and how are they derived, their anatomy (methods, properties, scope); creator; this
 - Extensions/Objects - how are they created and used
-- Extending OO - sub-classes, super, polymorphism, abstract and interface 
+- Extending OO - sub-classes, super, polymorphism, abstract and interface, boxing/unboxing
 - Static, Final, Protected & Private
-- Base classes - Date, I/O
-- Localisation - decimal point, mm/dd/yy vs dd/mm/yy vs ...
-- Mop up/Revisit - data conversion, Streams, Scanner in context
+- Mop up/Revisit - data conversion, Streams, I/O, Date, Scanner in context
+  - Date
+  - Localisation - decimal point, mm/dd/yy vs dd/mm/yy vs ...
+
 
 ## Module 05 - Consolidating Skills
 *Having covered the core concepts at the heart of Java, solidify with practice dojos and gain experience; at the same time, start to understand how to deliver code by testing and handling issues.*

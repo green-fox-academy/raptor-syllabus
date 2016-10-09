@@ -1,52 +1,57 @@
 # Module 03: Day 1 - Intro, Expressions & Control-Flow
-*Describe the days objectives*
+Get into *real* programming, installing a development environment and then running our first programs and gaining knowledge of the basic building blocks of Java.
 
 ## Materials & Resources
-### INTRO/SET ENV
-- download jdk (from Oracle, version 8)
-- if jre didn't download, get that too
-- download the development environment tool: www.jetbrains.com - Install Intellij-IDEA
+### Set up the environment
+- download jdk (from Oracle, version 8) - this is the Java Development Kit; part of the challenge here is to figure out where to get this.  
+- if *jre* (Java Runtime Environment) didn't download, get that too
+- download the development environment tool: www.jetbrains.com - Install Intellij-IDEA; get the Ultimate edition (but ensure you get the license from a Mentor)
 
 
 ### JAVA
 | Link | Comment |
 |:---- |:------- |
-| https://www.youtube.com/watch?v=2Xa3Y4xz8_s | What is Java|
-| https://www.youtube.com/watch?v=yLkrw34VMNo |The components of Java |
-| https://www.jetbrains.com/help/idea/2016.2/tutorial-creating-running-and-packaging-your-first-java-application.html ||
-| https://www.youtube.com/watch?v=TBWX97e1E9g | Bana video on getting started (using eclipse)|
-| https://www.youtube.com/watch?v=yYN8u90MKCg | Bana variables |
-| https://www.youtube.com/watch?v=qZ2pb6BljLk ||
-| https://www.youtube.com/watch?v=efvZmFd1prA ||
-| https://www.youtube.com/watch?v=TBWX97e1E9g ||
-| https://www.youtube.com/watch?v=RxeDe6BsTMI|String functions|
-
+|https://www.youtube.com/watch?v=2Xa3Y4xz8_s|Historic background leading to Java (Guru-01)|
+|https://www.youtube.com/watch?v=G1ubVOl9IBw|Understanding what the Java compiliation and run process (illustrated and compared to "c", (Guru-02)|
+|https://www.youtube.com/watch?v=yLkrw34VMNo |Clarifying JDK vs JRE and JVM, the components of Java (Prashun)|
+|https://www.youtube.com/watch?v=qscQ3XT6qu4| Installing Java & IntelliJ IDEA (Koets)|
+|https://www.youtube.com/watch?v=TBWX97e1E9g |Getting started (Bana 01, note he's using eclipse)|
+|https://www.youtube.com/watch?v=yYN8u90MKCg |Variables, Math functions & Scanner class (Bana 02)|
+|https://www.youtube.com/watch?v=qZ2pb6BljLk |Conditional statement (Bana 03)|
+|https://www.youtube.com/watch?v=efvZmFd1prA |Looping, collecting user input [with Scanner class] (Bana 04)|
+|https://www.youtube.com/watch?v=r3DBIDyzLUI|Strings (mathtutordvd 07) - basic items|
+|http://tutorials.jenkov.com/java/strings.html| resource on Java, specifically focused on strings
 
 ### Optional
 *If you've got time, consider the following:*
 | Link | Comment |
 |:---- |:------- |
-|https://www.youtube.com/watch?v=G1ubVOl9IBw||
+|https://www.youtube.com/watch?v=L_jXj0XTwSg|Creating a new project using IntelliJ (IDEA)|
+|https://www.jetbrains.com/help/idea/2016.2/tutorial-creating-running-and-packaging-your-first-java-application.html |Using IDEA (instead of Eclipse)|
 |https://www.youtube.com/watch?v=DnBTGtmJdzA| Variables and Binary|
 |https://www.youtube.com/watch?v=tUW2kIPY3is| What is memory|
-
+|http://docs.oracle.com/javase/8/docs/api/java/lang/String.html|Official Java docs on Strings|
 
 ## Assignment Review
 *Nothing from the previous session expected*
 
+
 ## Topics
 
 ### The Java environment
-- Programs with the .java extension
+- Programs with the .java, .class extensions
 - Compiling to bytecode
-- Linked together
-- Interpreter
+- RAM
+- Just-in-time (JIT) compiling vs linking together
+- Interpreter to machine code
+- JDK, JRE, JVM
 
 ### "Hello World"
-*Test that everything is installed correctly*
+*Test that everything is installed correctly.*
 - Get output
 - Practice creating file, directories
 - How to run a program
+- `public static void main(string args[])`
 
 ```java
 System.out.println("Hello world!");
@@ -109,7 +114,6 @@ ff /= 6; // ff = 4
 
 
 #### Strings
-http://docs.oracle.com/javase/8/docs/api/java/lang/String.html
  - char
  - String Class
  - length()
@@ -123,6 +127,7 @@ http://docs.oracle.com/javase/8/docs/api/java/lang/String.html
  - replace()
  - toLowerCase(), toUpperCase
  - trim()
+ - \\, \n, \t
  *general familiarity with how to check syntax and find functions on the internet*
 
 ```java
@@ -391,8 +396,8 @@ for (int m = 1; m < 10; m++) {
 
 ## Workshop/Practice
 
-### Challenge 1
-### Challenge Final
+### Challenge 
+### Challenge 
 - https://www.codewars.com/kata/563f037412e5ada593000114/train/java - Interest rate computation
 
 
