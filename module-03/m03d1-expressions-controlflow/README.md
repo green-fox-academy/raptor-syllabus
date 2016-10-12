@@ -34,7 +34,7 @@ Get into *real* programming, installing a development environment and then runni
 | Link | Comment| Time |
 |:---- |:------ |-----:|
 |https://www.youtube.com/watch?v=G1ubVOl9IBw|Understanding what the Java compiliation and run process (illustrated and compared to "c", (Guru-02)| 2:24|
-|https://www.youtube.com/watch?v=yLkrw34VMNo |Clarifying JDK vs JRE and JVM, the components of Java (Prashun)||
+|https://www.youtube.com/watch?v=yLkrw34VMNo |Clarifying JDK vs JRE and JVM, the components of Java (Prashun)| 2:28|
 |https://www.youtube.com/watch?v=L_jXj0XTwSg|Creating a new project using IntelliJ (IDEA)| 6:43|
 |https://www.jetbrains.com/help/idea/2016.2/tutorial-creating-running-and-packaging-your-first-java-application.html |Using IDEA (instead of Eclipse)||
 |https://www.youtube.com/watch?v=DnBTGtmJdzA|Alternative discussion on Variables and Binary (JCode.01)|5:19|

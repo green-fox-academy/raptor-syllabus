@@ -1,7 +1,9 @@
-# Module 03: Day 2 - Array, Functions and Debugging & Exceptions
+# Module 03: Day 2 - Array, Functions and Debugging
 Expanding from the the primitive datatypes, computers also work with lists of data; one of the most basic is the *array*.  An array offers a way to process a list of items, apply rules repeatedly and collect a series of results.
+
 As students are now conversant with the basic data types and flow, we introduce some tools so that we can watch what is happening when a program runs and find where a program does the __bad__ thing (that is to say, *goes awry*).  
-Also, we show how we can extend the environment with features developed by others (i.e. libraries).
+
+Lastly we show how you can extend a program to use external code (or objects &amp; methods) developed by others (i.e. libraries).
 
 ## Objectives
 - Functions (methods) and fields
@@ -31,7 +33,7 @@ Also, we show how we can extend the environment with features developed by other
 |https://www.jetbrains.com/help/idea/2016.2/configuring-project-and-global-libraries.html#lib_add_to_module_dependencies|How to add in a library||
 |https://www.jetbrains.com/help/idea/2016.2/downloading-libraries-from-maven-repositories.html| Using Maven||
 |https://www.youtube.com/watch?v=EWj60p8esD0|Exceptions: Try/Catch (Bana.07).  This is referenced elsewhere though we will cover it later. |15:42|
-|smartphone store|consider installing Sololearn Java Programming app||
+|https://www.google.hu/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwicjbnV_tTPAhVBDsAKHfvyBjsQFggxMAQ&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.sololearn.java%26hl%3Den&usg=AFQjCNFNXrlHnGw_HpQSbCy7h6QrdCiwxw&sig2=ZZL9MFAHIdpxd5cgomvf8Q|Consider a smartphone app for practicing on the go (Sololearn Java)||
 
 ## Assignment Review 
 - Loop printing out prime numbers from 2 to 100
@@ -62,7 +64,7 @@ Also, we show how we can extend the environment with features developed by other
 
 *jagged arrays*
 
-## Functions
+### Functions
 - Purpose
 - Return statement and value
 - Input Parameters
@@ -71,7 +73,7 @@ Also, we show how we can extend the environment with features developed by other
   - global variable
   - passing by reference vs value
 
-## Main()
+### Main()
 - Fixed invocation
 - There can only be 1 per program
   - Identify which is the *entry* point
@@ -104,7 +106,7 @@ As there are many examples where external libraries are used, we will briefly no
 |http://blog.javafortesters.com/2016/07/how-to-debug-java-with-intellij.html|Describing how one uses the debugger in IntelliJ|
 
 - Review loops, what causes them to terminate
-- Stepping through programs; interogating variables.
+- Practice stepping through programs; interogating variables.
 
 # Links
 - [Return to Module Overview](..)
