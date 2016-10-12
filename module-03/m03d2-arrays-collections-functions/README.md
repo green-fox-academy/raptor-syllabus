@@ -3,30 +3,36 @@ Expanding for the the primitive datatypes, computers also work with lists of dat
 Additionally, as we are now conversant with the basic data types and flow, we introduce some tools so that we can watch what is happening when a program runs, find where a program does the __bad__ thing (that is to say, *goes awry*) and instruct it on how to handle exceptions.
 Also, we show how we can extend the environment with features developed by others (i.e. libraries).
 
+## Objectives
+- Functions (methods) and fields
+- Main
+- Arrays
+- Intro to debugging code
+
 
 ## Materials & Resources
 - One of the examples makes use of a library that is available over the internet (from a source called Maven).  Called `commons-lang` you will need it for use in the Array exercise.
 
-| Link | Comment|
-|:---- |:------ |
-|https://www.youtube.com/watch?v=1HTsLK_m2ao|Methods & Fields, Using Functions (Bana 05)|
-|https://www.youtube.com/watch?v=eNPX2pTiaHI|Bana 09 (before 08!)|
-|https://www.youtube.com/watch?v=EWj60p8esD0|Exceptions: Try/Catch|
-|https://www.youtube.com/watch?v=rGlJiUO-dZA|Functions with Classes |
-|https://www.youtube.com/watch?v=_pUz-GJcdRU|Arrays & For Loop|
-|https://www.youtube.com/watch?v=IEqvmsqjpT0|Arrays related to Object|
+| Link | Comment| Time |
+|:---- |:------ |-----:|
+|https://www.youtube.com/watch?v=1HTsLK_m2ao|Methods & Fields, Using Functions (Bana.05)|14:06|
+|https://www.youtube.com/watch?v=eNPX2pTiaHI|Arrays (Bana.09) (before 08!)|18:08|
+|https://www.youtube.com/watch?v=rGlJiUO-dZA|Functions with Classes (Bana.08) | 16:48|
+|https://www.youtube.com/watch?v=_pUz-GJcdRU|Arrays & For Loop| 21:00|
+|https://www.youtube.com/watch?v=IEqvmsqjpT0|Arrays (related to Object, Bana.11)| 11:07|
 |https://www.jetbrains.com/help/idea/2016.2/tutorial-debugging-your-first-java-application.html|How to debug using IntelliJ|
-|https://youtu.be/Mr2mPu1tLhk?t=240|Adding a Maven Dependency (this is tip #8, tip #2 Comments at 1 min is also useful at this point)|
+|https://youtu.be/Mr2mPu1tLhk?t=240|Adding a Maven Dependency (this is tip #8, tip #2 Comments at 1 min is also useful at this point)|6:49|
 
 
 ### Optional
-| Link | Comment|
-|:---- |:------ |
-|http://commons.apache.org/proper/commons-lang/download_lang.cgi| What is "commons-lang"|
-|https://www.jetbrains.com/help/idea/2016.2/configuring-project-and-global-libraries.html#lib_add_to_module_dependencies|How to add in a library|
-|https://www.jetbrains.com/help/idea/2016.2/downloading-libraries-from-maven-repositories.html| Using Maven|
-|https://www.youtube.com/watch?v=LOHBGyK3Hbs|Optional on LinkedLists|
-|smartphone store|consider installing Sololearn Java Programming app|
+| Link | Comment| Time |
+|:---- |:------ |-----:|
+|http://commons.apache.org/proper/commons-lang/download_lang.cgi| What is "commons-lang"||
+|https://www.jetbrains.com/help/idea/2016.2/configuring-project-and-global-libraries.html#lib_add_to_module_dependencies|How to add in a library||
+|https://www.jetbrains.com/help/idea/2016.2/downloading-libraries-from-maven-repositories.html| Using Maven||
+|https://www.youtube.com/watch?v=EWj60p8esD0|Exceptions: Try/Catch (Bana.07).  This is referenced elsewhere though we will cover it later. |15:42|
+|https://www.youtube.com/watch?v=LOHBGyK3Hbs|Optional on LinkedLists|6:02|
+|smartphone store|consider installing Sololearn Java Programming app||
 
 ## Assignment Review 
 
@@ -75,10 +81,11 @@ Also, we show how we can extend the environment with features developed by other
 - Setting a break point-  How to walk through the program
 - Inspecting a variable
 
-### Exceptions
+### Exceptions (Optional)
+We plan to cover this later in the course but it comes up so at this point we mention it only so that you are familar.
 - What can cause an exception
 - Unhandled outcome
-
+- The syntax
 
 
 ## Workshop/Practice 
