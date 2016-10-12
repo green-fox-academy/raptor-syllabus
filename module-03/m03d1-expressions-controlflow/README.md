@@ -1,36 +1,44 @@
 # Module 03: Day 1 - Intro, Expressions & Control-Flow
 Get into *real* programming, installing a development environment and then running our first programs and gaining knowledge of the basic building blocks of Java.
 
+## Objectives
+- Get a working environment going
+- Create first program in Java
+- Variables
+- Expressions
+- Control Flow
+- Some of the Java *Lingo*
+
 ## Materials & Resources
-### Set up the environment
+### Environment
 - download jdk (from Oracle, version 8) - this is the Java Development Kit; part of the challenge here is to figure out where to get this.  
 - if *jre* (Java Runtime Environment) didn't download, get that too
 - download the development environment tool: www.jetbrains.com - Install Intellij-IDEA; get the Ultimate edition (but ensure you get the license from a Mentor)
 
 
-### JAVA
-| Link | Comment |
-|:---- |:------- |
-|https://www.youtube.com/watch?v=2Xa3Y4xz8_s|Historic background leading to Java (Guru-01)|
-|https://www.youtube.com/watch?v=G1ubVOl9IBw|Understanding what the Java compiliation and run process (illustrated and compared to "c", (Guru-02)|
-|https://www.youtube.com/watch?v=yLkrw34VMNo |Clarifying JDK vs JRE and JVM, the components of Java (Prashun)|
-|https://www.youtube.com/watch?v=qscQ3XT6qu4| Installing Java & IntelliJ IDEA (Koets)|
-|https://www.youtube.com/watch?v=TBWX97e1E9g |Getting started (Bana 01, note he's using eclipse)|
-|https://www.youtube.com/watch?v=yYN8u90MKCg |Variables, Math functions & Scanner class (Bana 02)|
+### Training
+| Link | Comment| Time |
+|:---- |:------ |-----:|
+|https://www.youtube.com/watch?v=2Xa3Y4xz8_s|Historic background leading to Java (Guru-01)| 6:01|
+|https://www.youtube.com/watch?v=qscQ3XT6qu4| Installing Java & IntelliJ IDEA (Koets)| 15:58|
+|https://www.youtube.com/watch?v=TBWX97e1E9g |Getting started (Bana 01, note he's using eclipse)|17:42|
+|https://www.youtube.com/watch?v=yYN8u90MKCg |Variables, Math functions & Scanner class (Bana 02)|17:05|
 |https://www.youtube.com/watch?v=qZ2pb6BljLk |Conditional statement (Bana 03)|
-|https://www.youtube.com/watch?v=efvZmFd1prA |Looping, collecting user input [with Scanner class] (Bana 04)|
-|https://www.youtube.com/watch?v=r3DBIDyzLUI|Strings (mathtutordvd 07) - basic items|
-|http://tutorials.jenkov.com/java/strings.html| resource on Java, specifically focused on strings
+|https://www.youtube.com/watch?v=efvZmFd1prA |Looping, collecting user input [with Scanner class] (Bana 04)|13:23|
+|https://www.youtube.com/watch?v=r3DBIDyzLUI|Strings (mathtutordvd 07) - basic items|11:38|
+|http://tutorials.jenkov.com/java/strings.html| resource on Java, specifically focused on strings||
 
 ### Optional
-*If you've got time, consider the following:*
-| Link | Comment |
-|:---- |:------- |
-|https://www.youtube.com/watch?v=L_jXj0XTwSg|Creating a new project using IntelliJ (IDEA)|
-|https://www.jetbrains.com/help/idea/2016.2/tutorial-creating-running-and-packaging-your-first-java-application.html |Using IDEA (instead of Eclipse)|
-|https://www.youtube.com/watch?v=DnBTGtmJdzA| Variables and Binary|
-|https://www.youtube.com/watch?v=tUW2kIPY3is| What is memory|
-|http://docs.oracle.com/javase/8/docs/api/java/lang/String.html|Official Java docs on Strings|
+*If you've got time and/or want to dig deeper, consider the following:*
+| Link | Comment| Time |
+|:---- |:------ |-----:|
+|https://www.youtube.com/watch?v=G1ubVOl9IBw|Understanding what the Java compiliation and run process (illustrated and compared to "c", (Guru-02)| 2:24|
+|https://www.youtube.com/watch?v=yLkrw34VMNo |Clarifying JDK vs JRE and JVM, the components of Java (Prashun)||
+|https://www.youtube.com/watch?v=L_jXj0XTwSg|Creating a new project using IntelliJ (IDEA)| 6:43|
+|https://www.jetbrains.com/help/idea/2016.2/tutorial-creating-running-and-packaging-your-first-java-application.html |Using IDEA (instead of Eclipse)||
+|https://www.youtube.com/watch?v=DnBTGtmJdzA|Alternative discussion on Variables and Binary (JCode.01)|5:19|
+|https://www.youtube.com/watch?v=tUW2kIPY3is| Deeper on how memory works (storing variables. Stack & Heap) (JCode.02)|3:52|
+|http://docs.oracle.com/javase/8/docs/api/java/lang/String.html|Official Java docs on Strings||
 
 ## Assignment Review
 *Nothing from the previous session expected*
@@ -402,6 +410,7 @@ for (int m = 1; m < 10; m++) {
 
 
 ## Assignment
+- Loop printing out prime numbers from 2 to 100
 
 # Links
 - [Return to Module Overview](..)

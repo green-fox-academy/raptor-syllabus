@@ -1,6 +1,6 @@
 # Module 03: Day 2 - Array, Functions and Debugging & Exceptions
-Expanding for the the primitive datatypes, computers also work with lists of data; one of the most basic is the *arrays*.  Arrays offer a way to process a list of items, applying the same rules; and collecting a series of results for reporting.
-Additionally, as we are now conversant with the basic data types and flow, we introduce some tools so that we can watch what is happening when a program runs, find where a program does the __bad__ thing (that is to say, *goes awry*) and instruct it on how to handle exceptions.
+Expanding from the the primitive datatypes, computers also work with lists of data; one of the most basic is the *array*.  An array offers a way to process a list of items, apply rules repeatedly and collect a series of results.
+As students are now conversant with the basic data types and flow, we introduce some tools so that we can watch what is happening when a program runs and find where a program does the __bad__ thing (that is to say, *goes awry*).  
 Also, we show how we can extend the environment with features developed by others (i.e. libraries).
 
 ## Objectives
@@ -31,10 +31,10 @@ Also, we show how we can extend the environment with features developed by other
 |https://www.jetbrains.com/help/idea/2016.2/configuring-project-and-global-libraries.html#lib_add_to_module_dependencies|How to add in a library||
 |https://www.jetbrains.com/help/idea/2016.2/downloading-libraries-from-maven-repositories.html| Using Maven||
 |https://www.youtube.com/watch?v=EWj60p8esD0|Exceptions: Try/Catch (Bana.07).  This is referenced elsewhere though we will cover it later. |15:42|
-|https://www.youtube.com/watch?v=LOHBGyK3Hbs|Optional on LinkedLists|6:02|
 |smartphone store|consider installing Sololearn Java Programming app||
 
 ## Assignment Review 
+- Loop printing out prime numbers from 2 to 100
 
 ## Topics
 
@@ -86,6 +86,9 @@ We plan to cover this later in the course but it comes up so at this point we me
 - What can cause an exception
 - Unhandled outcome
 - The syntax
+
+### External Libraries/Maven (Optional)
+As there are many examples where external libraries are used, we will briefly now show how to add such in.  We will cover libraries in more depth later in the course.
 
 
 ## Workshop/Practice 

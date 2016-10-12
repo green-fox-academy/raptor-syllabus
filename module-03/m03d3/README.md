@@ -1,4 +1,4 @@
-# Module 03: Day 3 - ArrayList, LinkedLists, HashMap;  Iterators, Foreach
+# Module 03: Day 3 - ArrayList, LinkedLists;  Iterators, Foreach
 Working with lists is core to computing; the first computers were little more than engines for sorting tables.  This day will focus on ways of storing and working with those lists.
 
 As this is a short week, we are not doing any demos.  However, we are assigning some videos and a review for over the weekend to reinforce the various items that were learnt so far in this module.
@@ -16,15 +16,16 @@ As this is a short week, we are not doing any demos.  However, we are assigning 
 |https://www.youtube.com/watch?v=HLwijvzWNKo|Bana on Linked Lists|
 |https://www.youtube.com/watch?v=195KUinjBpU|Bana on Linked Lists Deeper Pt 1|
 |https://www.youtube.com/watch?v=iR5wyCaIayk|Bana on Linked Lists Deeper Pt 2: doubly linked lists, iterators|
-|https://www.youtube.com/watch?v=h2d9b_nEzoA|Hash Table concept|
-|https://www.youtube.com/watch?v=jwtx6GVPdyw or 
- https://www.youtube.com/watch?v=j442WG8YzM4|HashMap/Set in code|
 
 
 ### Optional
 | Link | Comment|
 |:---- |:------ |
-|https://www.youtube.com/watch?v=LOHBGyK3Hbs|Optional on LinkedLists|
+|https://www.youtube.com/watch?v=LOHBGyK3Hbs|Optional on LinkedLists|6:02|
+|https://www.youtube.com/watch?v=h2d9b_nEzoA|Hash Table concept|
+|https://www.youtube.com/watch?v=jwtx6GVPdyw or 
+ https://www.youtube.com/watch?v=j442WG8YzM4|HashMap/Set in code|
+
 
 ## Assignment Review
 - Questions on Looping
