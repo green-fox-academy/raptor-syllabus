@@ -8,8 +8,8 @@ The mentors are Aze, Misi & Eric.
 
 
 ## Important Links
-- [Trello](https://trello.com/?) - site to track project tasks
-- [Slack](https://greenfox-?.slack.com) - to communicate ideas on channels
+- [Trello](https://trello.com/zerdaraptors) - site to track project tasks
+- [Slack](https://greenfox-zerda.slack.com) - to communicate ideas on channels
 - [Github - GreenFox](https://github.com/greenfox-academy) - overall tracking of our course
 - [Github - Zerda - Raptors](https://github.com/greenfox-zerda-raptors)
 - Calendar - [HTML](https://calendar.google.com/calendar/embed?src=greenfoxacademy.com_l0pmnv2jd08afbf211ek0jqlhc%40group.calendar.google.com&ctz=Europe/Budapest) [ICAL](https://calendar.google.com/calendar/ical/greenfoxacademy.com_l0pmnv2jd08afbf211ek0jqlhc%40group.calendar.google.com/public/basic.ics)
