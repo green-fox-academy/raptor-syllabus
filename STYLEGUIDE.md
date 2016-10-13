@@ -4,8 +4,7 @@ This is a document for containing the coding style guides at Greenfox's Velox cl
 Currently covers:
 - HTML
 - CSS
-- Python
-- Javascript
+- Java
 
 ## HTML and CSS
 
@@ -44,10 +43,6 @@ https://google.github.io/styleguide/htmlcssguide.xml
       content: "apple";
     }
     ```
-## Python
+## Java
 
-https://google.github.io/styleguide/pyguide.html
-
-## Javascript
-
-https://github.com/airbnb/javascript
+https://google.github.io/styleguide/javaguide.html
