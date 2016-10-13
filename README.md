@@ -11,8 +11,8 @@ The mentors are Aze, Misi & Eric.
 - [Trello](https://trello.com/?) - site to track project tasks
 - [Slack](https://greenfox-?.slack.com) - to communicate ideas on channels
 - [Github - GreenFox](https://github.com/greenfox-academy) - overall tracking of our course
-- [Github - ?](https://github.com/greenfox-?)
-- [Calendar](?)
+- [Github - Zerda - Raptors](https://github.com/greenfox-zerda-raptors)
+- Calendar - [HTML](https://calendar.google.com/calendar/embed?src=greenfoxacademy.com_l0pmnv2jd08afbf211ek0jqlhc%40group.calendar.google.com&ctz=Europe/Budapest) [ICAL](https://calendar.google.com/calendar/ical/greenfoxacademy.com_l0pmnv2jd08afbf211ek0jqlhc%40group.calendar.google.com/public/basic.ics)
 - [Styleguide](STYLEGUIDE.md) - what is this vis-a-vis students
 - [Common review mistakes](review/)
 
