@@ -42,7 +42,26 @@ Get into *real* programming, installing a development environment and then runni
 |http://docs.oracle.com/javase/8/docs/api/java/lang/String.html|Official Java docs on Strings||
 
 ## Assignment Review
-*Nothing from the previous session expected*
+- Java
+- variable
+    - byte
+    - int
+    - float
+    - boolean
+    - char
+    - String
+- statement
+- println
+- Hello World
+- condition
+- loop
+- scanner
+- operators
+    - +
+    - -
+    - ...
+- `Math.*`
+- ...
 
 
 ## Topics
@@ -65,6 +84,10 @@ Get into *real* programming, installing a development environment and then runni
 ```java
 System.out.println("Hello world!");
 ```
+
+##### Exercise
+- Run a simple Hello World!
+- Change it to greet you instead of the World.
 
 ### Variables
 #### Numbers
@@ -120,7 +143,9 @@ int ff = 8;
 ff *= 3;
 ff /= 6; // ff = 4
 ```
-
+**
+#### Exercise
+*Exercises about simple types and numbers*
 
 #### Strings
  - char
@@ -213,6 +238,9 @@ System.out.println("HOOOORRRAAAAAYYYY".toLowerCase());
 System.out.println("     string with lots of spaces       ".trim());                                                                                          
 ```
 
+##### Exercise
+*Exercises about Strings*
+
 #### Other datatypes
 - Boolean
 ```java
@@ -222,6 +250,10 @@ System.out.println(trueCondition); // true
 ```
 - Date (will cover later)
 - Objects (will cover later)
+
+
+##### Exercise
+*Exercises about other data types*
 
 ### Conditional
 - comparison operators
@@ -308,6 +340,10 @@ if(trueBool || falseBool)
    - and &
    - or |
    - xor ^
+
+
+##### Exercise
+*Exercises about Conditions*
 
 ### Loops
 - for
@@ -402,15 +438,13 @@ for (int m = 1; m < 10; m++) {
 }                                                                               
 ```
 
+##### Exercise
+*Exercises about Loops*
 
-## Workshop/Practice
-
-### Challenge 
-### Challenge 
+### Challenge
 - https://www.codewars.com/kata/563f037412e5ada593000114/train/java - Interest rate computation
 
-
-## Assignment
+### Challenge
 - Loop printing out prime numbers from 2 to 100
 
 # Links
