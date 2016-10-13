@@ -38,9 +38,14 @@ The course consists of 3 distinct phases:-
 - Advanced CSS
 - Build a complex webpage (like Wikipedia article)
 
+## First exam
+- HTML, CSS
+- Basic Sitebuilding
+- Understanding the internet
+
 ## Module 03 - Introduction Java Basics (Phase 2)
 * Become familiar with the typical components of a programming language; setting the foundation for further learning. *
-- Turing machine, anatomy of programming; interpreters, compilers 
+- Turing machine, anatomy of programming; interpreters, compilers
 - The components of the Java world - IDE & program, compile to byte code, linking, running in the JVM
 - Variables, Data Types
 - Arrays - multi-dimensional, jagged
@@ -70,7 +75,7 @@ The course consists of 3 distinct phases:-
 *Having covered the core concepts at the heart of Java, solidify with practice dojos and gain experience; at the same time, start to understand how to deliver code by testing and handling issues.*
 - Exceptions
 - Testing (TDD basics) - Karnaugh / Key maps, Assert
-- Annotations 
+- Annotations
 - Libraries and Dependency management (Maven, Gradle)
 - Project "Todo App" - exercise working through many of the elements learnt thus far
 
@@ -84,23 +89,24 @@ The course consists of 3 distinct phases:-
 - Project/Workshop: RPG using MVC
 - Practical: Mapping objects
 
+## Second Exam
+- Basics of Programming
+- Fundamentals of Java
 
 ## Module 07 - Java as a Server
 *Continuing on from the previous Module, we look at a Framework.  We also tie together how Java can be used to serve pages and integrate with HTML.*
 - Java foundation classes
-- Servlets 
+- Servlets
 - Java Server Pages (JSP) - java web basics with templates, integrating with HTML
 - Templating (view part; how to display data, HTML generation)
 - Mop up/Revisit -  Annotations, Collections, Iterators
 - Project/Workshop: Building a Gallery site using JSP
 
-## Midpoint - Exam
-
 ## Module 08 - Working with Data
 *How to store and work with data.*
 - File I/O - char and binary streams
 - Connecting to a database - JDBC (querying, resetting, mechanics)
-- SQL Basics - DDL vs DML; select, delete, update statements; 
+- SQL Basics - DDL vs DML; select, delete, update statements;
 - Alternatives NoSQL, MongoDB
 - Object Repository (ORM) - Hibernate framework
 - More SQL - keys, normalization;  Stored Procedures & Triggers
@@ -118,5 +124,14 @@ The course consists of 3 distinct phases:-
 - Generics
 - Aspect-Oriented Programming (AOP)
 
+## Third Exam
+- Java as backend
+- Understanding Frameworks
+- Persistence
+
 # Team Project (Phase 3)
 *Working in teams, deliver specific projects based upon requirements that will be posted later in the semester.*
+
+## Final Exam
+- Work and find solutions for problems on your own
+- Combination of learnt skills
