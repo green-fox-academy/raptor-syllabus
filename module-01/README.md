@@ -1,5 +1,5 @@
 # Module 01 - Basics and Tools
-*Get experience using some basic tools and languages.
+*Get experience using some basic tools and languages.*
 
 ## Days
 - [Introduction](1-introduction)
@@ -51,7 +51,7 @@
    - Through CSS, able to select any element: Descendant, Multiple elements, Combined, Universal, Attribute, Child, Adjacent, Pseudo, first-child, last-child, nth-child, nth-type
    - Understand how CSS resolves conflicts
    - Explain:
-     - Cascading 
+     - Cascading
      - Inheritance
      - What is meant by `Important`
      - Specificity
