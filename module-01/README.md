@@ -2,7 +2,7 @@
 *Get experience using some basic tools and languages.*
 
 ## Days
-- [Introduction](1-introduction)
+- [Introduction](https://github.com/greenfox-academy/teaching-materials/tree/master/tools-and-coding/first-website)
 - Team building exercise
 - [Command-line, GIT](3-command-line)
 - [HTML, CSS](4-html-css)

@@ -9,11 +9,11 @@
 - Welcome and __House Rules__
 - Motivation speech
   - Craftmanship
-  - Junior 14 / 15
-  - Intern 1 / 3
-  - Failed 1 
+  - Junior 29 / 32
+  - Intern 3
+  - Failed 1
   - 5 years experience: 400k HUF (Netto)
-- *Growth* Mindset 
+- *Growth* Mindset
 - Soft Skill trainings (*Kata*)
 - Daily schedule
   - Standup
@@ -28,8 +28,8 @@
     - 2 Modules on Tools & Sitebuilding (CSS + HTML)
   - Phase 2 Modules focusing on Java    
     - Basic Concepts & Programming (3)
-    - Approaches to using Java 
-    - Java as a Server 
+    - Approaches to using Java
+    - Java as a Server
     - Working with Data
     - Using the Spring Framework
   - Phase 3 Projects
@@ -42,11 +42,10 @@
   - Volunteer mentors
 - Assignments
   - Every day 1-2 hours of videos and articles
-- Exams (5)
+- Exams (4)
   - Sitebuild
   - Java fundamentals
-  - Java with JSP
-  - Spring, I/O and Databases
+  - Working with Java frameworks and databases
   - Final
 - Student presentations
 - End categories
@@ -59,7 +58,7 @@
   - Daily online code review
   - Weekly Group face to face review
 
-Slides: https://docs.google.com/presentation/d/1sHYoSXT2s9gyMB0tDWTOehQpg7oCzA3l_LY-KjjVy9I/edit?usp=sharing
+Slides: https://docs.google.com/a/lab.coop/presentation/d/1xzn3PqVKyysVTnL48t3FmDc9-NapYVzMBxz5c_HR_5o/edit?usp=sharing
 
 ## Tools
 - Google Chrome: https://www.google.com/chrome
@@ -107,11 +106,11 @@ Focus on text styling, basic layout and header image.
 ### Steps
 - __Plan your work.__
   Determine the requirements.  Gather content, images.  Run through the basic HTML structure and make note of how it has been styled.
-- __Keep things tidy.__ 
+- __Keep things tidy.__
   Create a folder for all your Greenfox materials.  Then within that, a folder for the first week, and within that a folder for the first day's assignment.
-- __Start with the content.__ 
+- __Start with the content.__
   Create an index.html file. What are the mandatory tags in an HTML document? See [step1 in the project folder](project/step1)  .
-  __Add more content.__ 
+  __Add more content.__
   Copy-paste a few paragraphs of text from [the article above](https://medium.com/galleys/how-she-got-there-3a64d89ba112#.8eknq2olp) to start with.
 - __Give it some structure.  __
   What semantic role do these paragraphs fill? Divide it into a few separate HTML tags.
