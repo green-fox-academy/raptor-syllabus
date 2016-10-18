@@ -111,7 +111,7 @@ Any other questions, post them on a Trello card as a comment and in the morning 
 ### Git
 
 #### Basics
-  - setup your environtment
+  - setup your environment
   - `git config --global user.name "Your Name"`
   - `git config --global user.email yourname@example.com`
 
